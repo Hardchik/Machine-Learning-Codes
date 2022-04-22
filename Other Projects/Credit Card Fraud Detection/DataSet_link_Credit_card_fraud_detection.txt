@@ -1,1 +1,2 @@
-https://www.kaggle.com/mlg-ulb/creditcardfraud
+Link 1 - https://www.kaggle.com/mlg-ulb/creditcardfraud
+Link 2 - https://drive.google.com/file/d/1DHspnxWmWowFnIPKLtFYoeuCfuJu1E6E/view?usp=sharing
